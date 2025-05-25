@@ -1,0 +1,14 @@
+../obj/CustomizeBtn.o
+../obj/MainWidgetBtnGroup.o
+../obj/MainWidgetTitle.o
+../obj/MonitorMainWidget.o
+../obj/VideoMainWidget.o
+../obj/main.o
+../obj/MainWidget.o
+../obj/qrc_Resource.o
+../obj/moc_CustomizeBtn.o
+../obj/moc_MainWidget.o
+../obj/moc_MainWidgetBtnGroup.o
+../obj/moc_MainWidgetTitle.o
+../obj/moc_MonitorMainWidget.o
+../obj/moc_VideoMainWidget.o

@@ -1,0 +1,45 @@
+/* 主窗口 */
+MainWidget {
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+
+/* 自定义按钮 */
+CustomizeBtn {
+    background-color: transparent;
+    border: none;
+}
+CustomizeBtn:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* 按钮组容器 */
+MainWidgetBtnGroup {
+    background-color: rgb(64, 65, 66);
+}
+
+/* 标题栏区域 */
+MainWidgetTitle {
+    background-color: rgb(64, 65, 66);
+    color: white;
+}
+
+/* 标题栏中的按钮 */
+MainWidgetTitle QPushButton {
+    background-color: transparent;
+    border: none;
+    color: white;
+    transition: background-color 0.2s ease;
+}
+MainWidgetTitle QPushButton:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+MainWidgetTitle QPushButton:pressed {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* 监视器和视频组件 */
+MonitorMainWidget,
+VideoMainWidget {
+    background-color: rgb(64, 65, 66);
+}

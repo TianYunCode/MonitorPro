@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/MainWidgetBtnGroup/monitor_icon.svg</file>
+        <file>Resource/MainWidgetBtnGroup/video_icon.svg</file>
+        <file>Resource/MainWidgetTitle/minimize_app_icon.svg</file>
+        <file>Resource/MainWidgetTitle/quit_app_icon.svg</file>
+        <file>Resource/MainWidgetTitle/un_zoom_app_icon.svg</file>
+        <file>Resource/MainWidgetTitle/zoom_app_icon.svg</file>
+        <file>Resource/MainWidgetTitle/title_app_icon.svg</file>
+        <file>Resource/QSS/default.qss</file>
+    </qresource>
+</RCC>
